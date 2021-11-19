@@ -1,4 +1,4 @@
-# logistic-regression
+# Logistic Regression - Predictive Model about Diagnosis of Diabetes
 A data analysis and a build-in predective model about some features that can be related (or not) to the diagnosis of diabetes in a indian populational sample.
 
 ## Database
